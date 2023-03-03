@@ -1,0 +1,213 @@
+/* CSS Document */
+h1, h2, h3, h4, h5, h6, ul, li, a, blockquote, table, header, body, footer, nav, main  {
+    padding: 0;
+    margin: 0;
+	border: 0;
+/*    font-family:  */
+}
+
+header {
+	min-height: 450px;
+	background-image: url("../images/titlething.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+	border-bottom: solid medium #FFF1FB ;
+
+}
+
+body{
+	background-color: #F891FF;
+	overflow-x: hidden;
+}
+.hnav {
+	background-color: #F891FF;
+	min-height: 70%;
+	border-bottom: solid medium #FFF1FB ;
+}
+
+.hnav ul{
+	display: block;
+	
+}
+.hnav ul li{
+	display: inline-block;
+    list-style: none;
+	width: 18%;
+	text-align: center;
+}
+.hnav a{
+	 color:#F7F0F0;
+    font-size: 1.8em;
+    padding: 0 1.3em;
+    text-decoration: none;
+	font-weight: bold;
+}
+
+.hnav a:hover {
+	 color: #FE3030;
+    text-decoration: none;
+	background-color: #8A0000;
+	text-shadow: 1.5px 1.5px 1px #ffff;
+	font-size: 2em;
+}
+
+
+.title {
+	text-align: center;
+	font-size: 8.3em;
+	color: #D52B2B;
+	text-shadow: -1px 4.3px 1px #FFC9CA, 0 0 5em black ;
+	font: bold;
+	position: relative;
+	top: 280px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; 
+}
+
+
+
+
+
+
+main p {
+	text-align: center;
+	color: #2F1414;
+	font-size: 1.7em;
+	font:bold;
+	width:50%;
+	float: left;
+	text-shadow: 0px 2px 1px #FE8D8F, 0 0 5em black ;
+}
+
+
+main h1{
+color:#E8FEFC;
+	font-style: italic;
+	font-size: 5.7em;
+	position: relative;
+	left: 12%;
+	border-color: 0px 4px #FF00A7;
+	
+}
+
+main img {
+	position:relative;
+	left: 3.5%;
+	bottom: 57%;
+	border: 14px ridge;
+}
+
+footer {
+	color: #FFC9CA;
+	clear: both;
+    height: 150px;
+	background-color: #000D16;
+	
+}
+
+footer nav ul {
+    display: block;
+    float: right;
+}
+
+footer nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 1em;
+}
+
+footer nav ul li a {
+    color: #E4F2EA;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+    
+footer nav ul li a:hover {
+	color: #FFC9CA;
+    text-decoration: underline;
+}
+
+footer p {
+    clear: right;
+    float: right;
+    color: #E4F2EA;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+    margin-right: 50px;
+}
+
+.newimg {
+	position: relative;
+	left: 17%;
+	top: 80px;
+}
+
+
+
+main h2 {
+	text-align: center;
+	color: #FCF7F7;
+	font-size: 1.7em;
+	font:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-decoration: #F3F3F3 underline
+}
+
+
+.listnew {
+	font-size: 300%;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: #F3DBEE;
+	text-shadow: 0px 5px 4px, 0px 0px 8px pink #423942;
+}
+
+.listnew {
+	position: relative;
+	left: 50%;
+	bottom: 279px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
